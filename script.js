@@ -1,7 +1,7 @@
 let model;
 
 // API credentials
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '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';
 
 // Load the MobileNet model
 mobilenet.load().then((loadedModel) => {
